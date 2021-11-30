@@ -1,5 +1,5 @@
 # restore-yt-dislikes
-restores youtube dislikes
+restores youtube dislikes (original creator: syndiate)
 ## How to use
  1. install tampermonkey,greasemonkey or whatever you like.
  2. click on restore-dislikes.user.js
